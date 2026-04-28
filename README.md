@@ -7,6 +7,15 @@ Netflix dataset analysis using Python
 ## Overview
 This project analyzes Netflix dataset using Python, Pandas, and Matplotlib to extract insights about movies and TV shows.
 
+
+
+live link -------------
+
+
+>   https://github.com/PawanJogi07/netflix-data-analysis/blob/main/netflixproject.ipynb < 
+
+
+
 ## Tools Used
 - Python
 - Pandas
