@@ -1,4 +1,4 @@
-# netflix-data-analysis
+# Netflix-data-analysis
 Netflix dataset analysis using Python
 # Netflix Data Analysis
 
